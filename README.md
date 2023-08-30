@@ -1,3 +1,4 @@
+![logo](https://github.com/hy7haseeb123/hy7haseeb123/blob/main/Teal%20Geometric%20Technology%20Linkdln%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Haseeb Yaqoob</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
